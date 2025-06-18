@@ -1,6 +1,19 @@
-# 👋 Hi, I'm Jahid Hasan
+<h1 align="center">Hi there 👋, I'm Jahid Hasan</h1>
+<p align="center">
+  Aspiring Web Developer | Laravel Enthusiast | AI-assisted Coder
+</p>
 
-Aspiring Web Developer with a passion for Laravel, Vue.js, and AI-assisted coding. I’m committed to continuous learning, problem-solving, and building useful web applications. Currently focused on backend and full-stack development.
+---
+
+## 🧑‍💼 About Me
+
+I’m a passionate and dedicated web developer focused on building scalable, secure, and user-friendly applications using Laravel, Vue.js, and modern development tools. I'm continuously improving my skills through hands-on project work and AI-assisted development (ChatGPT, Google Gemini).
+
+---
+
+## 🎯 Career Objective
+
+To contribute meaningfully in a growth-oriented tech environment by leveraging my knowledge of web development, AI-assisted productivity tools, and strong commitment to quality and continuous learning.
 
 ---
 
@@ -10,12 +23,6 @@ Aspiring Web Developer with a passion for Laravel, Vue.js, and AI-assisted codin
 - 📧 **Email**: [jahidhasan370919@gmail.com](mailto:jahidhasan370919@gmail.com)  
 - 🔗 **LinkedIn**: [jahid-hasan-993597307](https://www.linkedin.com/in/jahid-hasan-993597307)  
 - 💻 **GitHub**: [jahid-we](https://github.com/jahid-we)
-
----
-
-## 🎯 Career Objective
-
-Seeking a challenging and rewarding career in a growth-oriented organization where I can apply my technical skills, including AI-assisted development using tools like ChatGPT and Gemini, along with sincerity, punctuality, and commitment to continuous learning.
 
 ---
 
