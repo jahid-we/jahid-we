@@ -56,34 +56,4 @@ Ostad | Duration: 3 March 2024 – 1 August 2024
 
 ---
 
-## 🎓 Education
-
-- **BA in History**  
-  National University | Session: 2022–2023  
-
-- **HSC (Humanities)**  
-  Bangladesh Gas Fields School & College  
-  Session: 2020–2021 | Year: 2022  
-
-- **SSC (Humanities)**  
-  Brahmanbaria High School  
-  Session: 2018–2019 | Year: 2020
-
----
-
-## 🧑‍💼 Reference
-
-**Rabbil Hasan**  
-Software Engineering Manager  
-IDLC Finance Limited  
-📞 +8801785388919
-
----
-
-## ✅ Declaration
-
-I hereby declare that the above information is true and correct to the best of my knowledge and belief.
-
----
-
 _✨ Thanks for visiting my profile!_
