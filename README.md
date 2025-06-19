@@ -1,13 +1,13 @@
 <h1 align="center">Hi there 👋, I'm Jahid Hasan</h1>
 <p align="center">
-  Aspiring Web Developer | Laravel Enthusiast | AI-assisted Coder
+  Aspiring Web Developer | Laravel Enthusiast | Learner with AI Support
 </p>
 
 ---
 
 ## 🧑‍💼 About Me
 
-I’m a passionate and dedicated web developer focused on building scalable, secure, and user-friendly applications using Laravel, Vue.js, and modern development tools. I'm continuously improving my skills through hands-on project work and AI-assisted development (ChatGPT, Google Gemini).
+I’m a passionate and dedicated web developer focused on building scalable, secure, and user-friendly applications using Laravel, Vue.js, and modern development tools. I'm continuously improving my skills through hands-on project work and occasionally leveraging AI tools like ChatGPT and Google Gemini for support and learning.
 
 ---
 
