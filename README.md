@@ -31,10 +31,11 @@ To contribute meaningfully in a growth-oriented tech environment by leveraging m
 
 | Skill                         | Level         |
 |------------------------------|---------------|
-| **PHP (Laravel)**            | ██████████░░ 90% |
+| **Php**                      | ███████░░░░░ 60% |
+| **Laravel**                  | ██████████░░ 90% |
+| **JavaScript (Basic)**       | ██████░░░░░░ 50% |
 | **Vue.js**                   | █████████░░░ 80% |
 | **Inertia.js**               | ████████░░░░ 70% |
-| **JavaScript (Basic)**       | ██████░░░░░░ 50% |
 | **HTML & CSS**               | ███████░░░░░ 60% |
 | **Bootstrap**                | █████████░░░ 80% |
 | **MySQL**                    | █████████░░░ 80% |
