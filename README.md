@@ -41,8 +41,6 @@ To contribute meaningfully in a growth-oriented tech environment by leveraging m
 | **MySQL**                    | █████████░░░ 80% |
 | **Git & GitHub**             | █████████░░░ 80% |
 | **ChatGPT, Gemini AI**       | ███████████░ 90% |
-| **Photoshop (Basic)**        | ██████░░░░░░ 50% |
-| **MS Word/Excel/PowerPoint** | █████████░░░ 80% |
 
 ---
 
