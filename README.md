@@ -26,15 +26,22 @@ To contribute meaningfully in a growth-oriented tech environment by leveraging m
 
 ---
 
-## 💻 Skills
 
-- **Languages**: PHP, JavaScript (Basic)  
-- **Frameworks**: Laravel, Vue.js, Inertia.js  
-- **Frontend**: HTML, CSS, Bootstrap  
-- **Database**: MySQL  
-- **Version Control**: Git & GitHub  
-- **AI Tools**: ChatGPT, Google Gemini  
-- **Others**: Adobe Photoshop (Basic), MS Word, Excel, PowerPoint
+## 💻 Skills with Progress
+
+| Skill                         | Level         |
+|------------------------------|---------------|
+| **PHP (Laravel)**            | ██████████░░ 90% |
+| **Vue.js**                   | █████████░░░ 80% |
+| **Inertia.js**               | ████████░░░░ 70% |
+| **JavaScript (Basic)**       | ██████░░░░░░ 50% |
+| **HTML & CSS**               | ███████░░░░░ 60% |
+| **Bootstrap**                | █████████░░░ 80% |
+| **MySQL**                    | █████████░░░ 80% |
+| **Git & GitHub**             | █████████░░░ 80% |
+| **ChatGPT, Gemini AI**       | ███████████░ 90% |
+| **Photoshop (Basic)**        | ██████░░░░░░ 50% |
+| **MS Word/Excel/PowerPoint** | █████████░░░ 80% |
 
 ---
 
