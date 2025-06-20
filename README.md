@@ -65,8 +65,9 @@ To contribute meaningfully in a growth-oriented tech environment by leveraging m
 
 ## 🌍 Language Skills
 
-- ✅ Fluent in **Bangla**, **English**
-- ✅ Conversational in **Hindi**
+- ✅ **Bangla** – Native / Fluent  
+- 🔄 **English** – Reading & Writing: Good, Speaking: Basic  
+- ✅ **Hindi** – Conversational
 
 ---
 
