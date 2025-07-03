@@ -5,6 +5,15 @@
 
 ---
 
+## 📞 Contact Me
+
+- 📱 **Mobile**: +8801701367333  
+- 📧 **Email**: [jahidhasan370919@gmail.com](mailto:jahidhasan370919@gmail.com)  
+- 🔗 **LinkedIn**: [jahid-hasan-993597307](https://www.linkedin.com/in/jahid-hasan-993597307)  
+- 💻 **GitHub**: [jahid-we](https://github.com/jahid-we)
+
+---
+
 ## 🧑‍💼 About Me
 
 I’m a passionate and dedicated web developer focused on building scalable, secure, and user-friendly applications using Laravel, Vue.js, and modern development tools. I'm continuously improving my skills through hands-on project work and occasionally leveraging AI tools like ChatGPT and Google Gemini for support and learning.
@@ -16,16 +25,6 @@ I’m a passionate and dedicated web developer focused on building scalable, sec
 To contribute meaningfully in a growth-oriented tech environment by leveraging my knowledge of web development, AI-assisted productivity tools, and strong commitment to quality and continuous learning.
 
 ---
-
-## 📞 Contact Me
-
-- 📱 **Mobile**: +8801701367333  
-- 📧 **Email**: [jahidhasan370919@gmail.com](mailto:jahidhasan370919@gmail.com)  
-- 🔗 **LinkedIn**: [jahid-hasan-993597307](https://www.linkedin.com/in/jahid-hasan-993597307)  
-- 💻 **GitHub**: [jahid-we](https://github.com/jahid-we)
-
----
-
 
 ## 💻 Skills with Progress
 
