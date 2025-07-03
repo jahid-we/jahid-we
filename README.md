@@ -71,4 +71,9 @@ To contribute meaningfully in a growth-oriented tech environment by leveraging m
 
 ---
 
+## 📄 My Resume (PDF)
+
+📥 [View My Resume](https://drive.google.com/file/d/1nSZ17Aoz1UytpMtDl99N44KNGRstgrLT/view?usp=drive_link)
+
+---
 _✨ Thanks for visiting my profile!_
