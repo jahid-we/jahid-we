@@ -4,30 +4,16 @@
 </p>
 
 ---
-
 ## 🧑‍💼 About Me
 
 I’m a passionate and dedicated web developer focused on building scalable, secure, and user-friendly applications using Laravel, Vue.js, and modern development tools. I'm continuously improving my skills through hands-on project work and occasionally leveraging AI tools like ChatGPT and Google Gemini for support and learning.
 
 ---
-
 ## 🎯 Career Objective
 
 To contribute meaningfully in a growth-oriented tech environment by leveraging my knowledge of web development, AI-assisted productivity tools, and strong commitment to quality and continuous learning.
 
 ---
-
-## 📞 Contact Me
-
-- 📱 **Mobile**: +8801701367333  
-- 📧 **Email**: [jahidhasan370919@gmail.com](mailto:jahidhasan370919@gmail.com)  
-- 🔗 **LinkedIn**: [jahid-hasan-993597307](https://www.linkedin.com/in/jahid-hasan-993597307)  
-- 💻 **GitHub**: [jahid-we](https://github.com/jahid-we)
-
----
-
-
-
 ## 💻 Skills with Progress
 
 | Skill                         | Level         |
@@ -44,7 +30,6 @@ To contribute meaningfully in a growth-oriented tech environment by leveraging m
 | **ChatGPT, Gemini AI**       | ███████████░ 90% |
 
 ---
-
 ## 📚 Training
 
 **PHP & Laravel Development**  
@@ -52,7 +37,6 @@ To contribute meaningfully in a growth-oriented tech environment by leveraging m
 🏫 Institute: [OSTAD](https://ostad.app)
 
 ---
-
 ## 🔧 Projects
 
 - 🔗 [Freelance Time Tracker API](https://github.com/jahid-we/Freelance-Time-Tracker-Api)  
@@ -63,7 +47,6 @@ To contribute meaningfully in a growth-oriented tech environment by leveraging m
 - 🔗 [Car Rental Web Application](https://github.com/jahid-we/Car-Rental-Web-Application-)
 
 ---
-
 ## 🌍 Language Skills
 
 - ✅ **Bangla** – Native / Fluent  
@@ -71,7 +54,14 @@ To contribute meaningfully in a growth-oriented tech environment by leveraging m
 - ✅ **Hindi** – Conversational
 
 ---
+## 📞 Contact Me
 
+- 📱 **Mobile**: +8801701367333  
+- 📧 **Email**: [jahidhasan370919@gmail.com](mailto:jahidhasan370919@gmail.com)  
+- 🔗 **LinkedIn**: [jahid-hasan-993597307](https://www.linkedin.com/in/jahid-hasan-993597307)  
+- 💻 **GitHub**: [jahid-we](https://github.com/jahid-we)
+
+---
 ## 📄 My Resume (PDF)
 
 📥 [View My Resume](https://drive.google.com/file/d/1nSZ17Aoz1UytpMtDl99N44KNGRstgrLT/view?usp=drive_link)
