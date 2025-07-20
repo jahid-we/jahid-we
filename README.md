@@ -39,7 +39,7 @@ To contribute meaningfully in a growth-oriented tech environment by leveraging m
 ---
 ## 🔧 Projects
 
-- 🔗 [Freelance Time Tracker API](https://github.com/jahid-we/Freelance-Time-Tracker-Api)  
+- 🔗 [Freelance Time Tracker Software](https://github.com/jahid-we/Freelance-Time-Tracker-Software-)  
 - 🔗 [Smart Contact Management](https://github.com/jahid-we/Smart-Contact)  
 - 🔗 [Simple E-Commerce Project](https://github.com/jahid-we/Simple-E-commerce-Project)  
 - 🔗 [Inventory Management System](https://github.com/jahid-we/Inventory-Management-)  
