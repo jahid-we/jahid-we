@@ -173,7 +173,7 @@ An e-commerce platform with product management and shopping cart functionality.
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jahid-we&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -185,10 +185,7 @@ An e-commerce platform with product management and shopping cart functionality.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahid-we&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
+</p> -->
 ## 📫 Connect With Me
 
 📧 Email: **jahidhasan370919@gmail.com**
