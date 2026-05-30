@@ -1,70 +1,212 @@
-<h1 align="center">Hi there 👋, I'm Jahid Hasan</h1>
+<h1 align="center">Hi 👋, I'm Jahid Hasan</h1>
+
+<h3 align="center">
+WordPress Developer | Laravel & Vue.js Enthusiast | Continuous Learner
+</h3>
+
 <p align="center">
-  Aspiring Web Developer | Laravel Enthusiast | Learner with AI Support
+Building modern WordPress websites, custom widgets, WooCommerce solutions, and scalable web applications.
+</p>
+
+<p align="center">
+  <a href="https://profiles.wordpress.org/jahidzendforce/">WordPress Profile</a> •
+  <a href="https://github.com/jahid-we">GitHub</a> •
+  <a href="https://www.linkedin.com/in/jahid-hasan-993597307">LinkedIn</a>
 </p>
 
 ---
-## 🧑‍💼 About Me
 
-I’m a passionate and dedicated web developer focused on building scalable, secure, and user-friendly applications using Laravel, Vue.js, and modern development tools. I'm continuously improving my skills through hands-on project work and occasionally leveraging AI tools like ChatGPT and Google Gemini for support and learning.
+## 👨‍💻 About Me
 
----
-## 🎯 Career Objective
+I'm a passionate WordPress Developer from Bangladesh with hands-on experience in building responsive, user-friendly, and performance-focused websites.
 
-To contribute meaningfully in a growth-oriented tech environment by leveraging my knowledge of web development, AI-assisted productivity tools, and strong commitment to quality and continuous learning.
+Currently working as a **WordPress Developer at Zend Force**, where I contribute to real-world projects and continuously improve my skills through practical development, experimentation, and modern web technologies.
 
----
-## 💻 Skills with Progress
-
-| Skill                         | Level         |
-|------------------------------|---------------|
-| **Php**                      | ███████░░░░░ 60% |
-| **Laravel**                  | ██████████░░ 85% |
-| **JavaScript (Basic)**       | ██████░░░░░░ 50% |
-| **Vue.js**                   | █████████░░░ 80% |
-| **Inertia.js**               | ████████░░░░ 70% |
-| **HTML & CSS**               | ███████░░░░░ 60% |
-| **Bootstrap**                | █████████░░░ 80% |
-| **MySQL**                    | █████████░░░ 80% |
-| **Git & GitHub**             | █████████░░░ 80% |
-| **ChatGPT, Gemini AI**       | ███████████░ 90% |
+My expertise includes WordPress development, WooCommerce customization, Elementor page building, custom widget development, and web application development with Laravel and Vue.js.
 
 ---
-## 📚 Training
 
-**PHP & Laravel Development**  
-📅 Duration: March 2024 – August 2024  
-🏫 Institute: [OSTAD](https://ostad.app)
+## 🚀 Current Position
 
----
-## 🔧 Projects
-
-- 🔗 [Freelance Time Tracker Software](https://github.com/jahid-we/Freelance-Time-Tracker-Software-)  
-- 🔗 [Smart Contact Management](https://github.com/jahid-we/Smart-Contact)  
-- 🔗 [Simple E-Commerce Project](https://github.com/jahid-we/Simple-E-commerce-Project)  
-- 🔗 [Inventory Management System](https://github.com/jahid-we/Inventory-Management-)  
-- 🔗 [MrX Portfolio](https://github.com/jahid-we/MrX-Portfolio-)  
-- 🔗 [Car Rental Web Application](https://github.com/jahid-we/Car-Rental-Web-Application-)
+🏢 **WordPress Developer**  
+📍 Zend Force  
+🌏 Bangladesh
 
 ---
-## 🌍 Language Skills
 
-- ✅ **Bangla** – Native / Fluent  
-- 🔄 **English** – Reading & Writing: Good, Speaking: Basic  
-- ✅ **Hindi** – Conversational
+## 🛠️ Tech Stack
+
+### WordPress Ecosystem
+
+- WordPress
+- WooCommerce
+- Elementor
+- JetEngine (Learning)
+- Custom Widgets
+- Theme Customization
+- Plugin Management
+
+### Backend Development
+
+- PHP
+- Laravel
+- CodeIgniter (Basic)
+
+### Frontend Development
+
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- Tailwind CSS
+- Vue.js
+- Inertia.js
+
+### Database & Tools
+
+- MySQL
+- Git
+- GitHub
+- ChatGPT
+- Google Gemini
+- Adobe Photoshop (Basic)
 
 ---
-## 📞 Contact Me
 
-- 📱 **Mobile**: +8801701367333  
-- 📧 **Email**: [jahidhasan370919@gmail.com](mailto:jahidhasan370919@gmail.com)  
-- 🔗 **LinkedIn**: [jahid-hasan-993597307](https://www.linkedin.com/in/jahid-hasan-993597307)  
-- 💻 **GitHub**: [jahid-we](https://github.com/jahid-we)
+## 🎯 Core Skills
+
+✅ WordPress Website Development
+
+✅ Custom WordPress Widget Development
+
+✅ Elementor Widget Customization
+
+✅ WooCommerce Store Development
+
+✅ Theme Customization
+
+✅ Plugin Configuration & Management
+
+✅ Custom Post Types & Dynamic Content
+
+✅ Responsive Website Design
+
+✅ Laravel Development
+
+✅ Vue.js & Inertia.js
+
+✅ REST API Development
+
+✅ MySQL Database Design
+
+✅ Git & GitHub Workflow
 
 ---
-## 📄 My Resume (PDF)
 
-📥 [View My Resume](https://drive.google.com/file/d/16Ot6LJ3Y81lFYpA12vQuzcKBvqHBkYOK/view?usp=sharing)
+## 📚 Professional Training
+
+### PHP & Laravel Web Development
+
+**OSTAD**
+
+📅 March 2024 – August 2024
+
+Key Learning Areas:
+
+- PHP Fundamentals
+- Laravel MVC Architecture
+- Authentication & Authorization
+- REST API Development
+- Database Relationships
+- Vue.js Integration
+- Real-World Project Development
 
 ---
-_✨ Thanks for visiting my profile!_
+
+## 🔥 Featured Projects
+
+### 🤖 LaraChat-AI
+
+A real-time AI chatbot application built with Laravel, Vue.js, Inertia.js, OpenRouter API, and LLaMA-3.
+
+🔗 https://github.com/jahid-we/LaraChat-AI
+
+---
+
+### ⏱️ Freelance Time Tracker
+
+A complete freelancer time management and tracking system.
+
+**Tech:** Laravel, Vue.js, Inertia.js, MySQL
+
+🔗 https://github.com/jahid-we/Freelance-Time-Tracker-Software-
+
+---
+
+### 📇 Smart Contact Manager
+
+A modern CRUD application for managing contacts.
+
+**Tech:** Laravel, Vue.js, Inertia.js
+
+🔗 https://github.com/jahid-we/Smart-Contact
+
+---
+
+### 🛒 Simple E-Commerce App
+
+An e-commerce platform with product management and shopping cart functionality.
+
+**Tech:** Laravel, Vue.js, Bootstrap
+
+🔗 https://github.com/jahid-we/Simple-E-commerce-Project
+
+---
+
+## 🌍 Languages
+
+🇧🇩 Bangla — Native
+
+🇺🇸 English — Intermediate
+
+🇮🇳 Hindi — Conversational
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jahid-we&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jahid-we&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jahid-we&theme=tokyo-night" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: **jahidhasan370919@gmail.com**
+
+💻 GitHub: **https://github.com/jahid-we**
+
+🌐 WordPress Profile: **https://profiles.wordpress.org/jahidzendforce/**
+
+🔗 LinkedIn: **https://www.linkedin.com/in/jahid-hasan-993597307**
+
+📄 Resume: **https://drive.google.com/file/d/1Gimc0JfNnDWEfmWPYc4JfLyL2Cyy6EC0/view**
+
+---
+
+## 💡 Philosophy
+
+> "Continuous learning, practical development, and creating meaningful digital experiences."
+
+---
+
+⭐ If you like my work, feel free to explore my repositories and connect with me.
