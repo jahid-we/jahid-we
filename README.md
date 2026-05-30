@@ -173,18 +173,18 @@ An e-commerce platform with product management and shopping cart functionality.
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jahid-we&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jahid-we&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jahid-we&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahid-we&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jahid-we&theme=tokyo-night" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahid-we&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
