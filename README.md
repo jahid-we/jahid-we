@@ -220,11 +220,9 @@ Completed practical training covering:
 
 📧 **Email:** jahidhasan370919@gmail.com
 
-💻 **GitHub:** https://github.com/jahid-we
-
 🌐 **WordPress Profile:** https://profiles.wordpress.org/jahidzendforce/
 
-🔗 **LinkedIn:** https://www.linkedin.com/in/jahid-hasan-993597307
+🔗 **LinkedIn:** https://www.linkedin.com/in/jahid-hasan-6891123a8
 
 📄 **Resume:** https://drive.google.com/file/d/1Gimc0JfNnDWEfmWPYc4JfLyL2Cyy6EC0/view
 
