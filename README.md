@@ -16,43 +16,49 @@ Building modern WordPress websites, custom widgets, WooCommerce solutions, and s
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I'm a passionate WordPress Developer from Bangladesh with hands-on experience in building responsive, user-friendly, and performance-focused websites.
+Hi! I'm a **WordPress Developer from Bangladesh** focused on building modern, responsive, user-friendly, and performance-oriented websites.
 
-Currently working as a **WordPress Developer at Zend Force**, where I contribute to real-world projects and continuously improve my skills through practical development, experimentation, and modern web technologies.
+I'm currently working as a **WordPress Developer at Zend Force**, where I contribute to real-world WordPress projects, develop custom solutions, troubleshoot issues, and work with modern WordPress technologies.
 
-My expertise includes WordPress development, WooCommerce customization, Elementor page building, custom widget development, and web application development with Laravel and Vue.js.
+My primary focus is on **WordPress, WooCommerce, Elementor, custom plugin development, custom widgets, dynamic content, and website optimization**.
+
+I also have previous hands-on experience with **PHP, Laravel, Vue.js, Inertia.js, and REST API development**.
 
 ---
 
 ## 🚀 Current Position
 
-🏢 **WordPress Developer**  
-📍 Zend Force  
-🌏 Bangladesh
+**WordPress Developer** at **Zend Force**  
+📍 Bangladesh
 
 ---
 
 ## 🛠️ Tech Stack
 
-### WordPress Ecosystem
+### WordPress
 
 - WordPress
 - WooCommerce
 - Elementor
-- JetEngine (Learning)
+- Elementor Pro
+- JetEngine
+- ACF
+- Custom Post Types
 - Custom Widgets
+- Custom Plugin Development
 - Theme Customization
-- Plugin Management
+- Dynamic Content
+- WordPress REST API
 
-### Backend Development
+### Backend
 
 - PHP
+- MySQL
 - Laravel
-- CodeIgniter (Basic)
 
-### Frontend Development
+### Frontend
 
 - HTML5
 - CSS3
@@ -62,148 +68,174 @@ My expertise includes WordPress development, WooCommerce customization, Elemento
 - Vue.js
 - Inertia.js
 
-### Database & Tools
+### Tools & Workflow
 
-- MySQL
 - Git
 - GitHub
+- SVN
+- phpMyAdmin
+- Laragon
+- Adobe Photoshop
 - ChatGPT
 - Google Gemini
-- Adobe Photoshop (Basic)
 
 ---
 
 ## 🎯 Core Skills
 
-✅ WordPress Website Development
-
-✅ Custom WordPress Widget Development
-
-✅ Elementor Widget Customization
-
-✅ WooCommerce Store Development
-
-✅ Theme Customization
-
-✅ Plugin Configuration & Management
-
-✅ Custom Post Types & Dynamic Content
-
-✅ Responsive Website Design
-
-✅ Laravel Development
-
-✅ Vue.js & Inertia.js
-
-✅ REST API Development
-
-✅ MySQL Database Design
-
-✅ Git & GitHub Workflow
+- ✅ WordPress Website Development
+- ✅ Custom WordPress Plugin Development
+- ✅ Custom WordPress Widget Development
+- ✅ Elementor & Elementor Pro Customization
+- ✅ WooCommerce Development & Customization
+- ✅ Theme Customization
+- ✅ Custom Post Types & Dynamic Content
+- ✅ ACF & JetEngine
+- ✅ WordPress Performance Optimization
+- ✅ Responsive Web Development
+- ✅ PHP & MySQL
+- ✅ REST API Integration
+- ✅ Git & GitHub Workflow
+- ✅ WordPress Plugin Architecture
+- ✅ Website Troubleshooting & Bug Fixing
 
 ---
 
-## 📚 Professional Training
+## 💼 Professional Experience
 
-### PHP & Laravel Web Development
+### 🏢 WordPress Developer — Zend Force
 
-**OSTAD**
+Currently working on real-world WordPress projects involving:
 
-📅 March 2024 – August 2024
+- WordPress website development
+- WooCommerce customization
+- Elementor-based website development
+- Custom WordPress widgets
+- Plugin development and maintenance
+- Website performance optimization
+- Bug fixing and troubleshooting
+- Dynamic content implementation
+- WordPress plugin documentation
+- Technical support and testing
 
-Key Learning Areas:
-
-- PHP Fundamentals
-- Laravel MVC Architecture
-- Authentication & Authorization
-- REST API Development
-- Database Relationships
-- Vue.js Integration
-- Real-World Project Development
+I also contribute to the **support and documentation** of WordPress products and help improve their usability and user experience.
 
 ---
 
 ## 🔥 Featured Projects
 
+### 🚀 Loginflux
+
+A modern WordPress login customization plugin designed to provide a more customizable and visually appealing WordPress login experience.
+
+**Features include:**
+
+- Custom login page design
+- Modern glassmorphism UI
+- Animated background effects
+- Custom colors and styling
+- WordPress settings integration
+- Responsive design
+- Performance-focused implementation
+
+🔗 **WordPress Plugin:**  
+https://wordpress.org/plugins/loginflux/
+
+🔗 **GitHub:**  
+https://github.com/jahid-we/loginflux
+
+---
+
 ### 🤖 LaraChat-AI
 
 A real-time AI chatbot application built with Laravel, Vue.js, Inertia.js, OpenRouter API, and LLaMA-3.
 
-🔗 https://github.com/jahid-we/LaraChat-AI
+**Tech:** Laravel, Vue.js, Inertia.js, OpenRouter API
+
+🔗 **GitHub:**  
+https://github.com/jahid-we/LaraChat-AI
 
 ---
 
 ### ⏱️ Freelance Time Tracker
 
-A complete freelancer time management and tracking system.
+A freelancer time-management and tracking application designed to manage working sessions and track time efficiently.
 
 **Tech:** Laravel, Vue.js, Inertia.js, MySQL
 
-🔗 https://github.com/jahid-we/Freelance-Time-Tracker-Software-
+🔗 **GitHub:**  
+https://github.com/jahid-we/Freelance-Time-Tracker-Software-
 
 ---
 
 ### 📇 Smart Contact Manager
 
-A modern CRUD application for managing contacts.
+A modern CRUD application for managing and organizing contacts.
 
 **Tech:** Laravel, Vue.js, Inertia.js
 
-🔗 https://github.com/jahid-we/Smart-Contact
+🔗 **GitHub:**  
+https://github.com/jahid-we/Smart-Contact
 
 ---
 
 ### 🛒 Simple E-Commerce App
 
-An e-commerce platform with product management and shopping cart functionality.
+An e-commerce application featuring product management and shopping cart functionality.
 
 **Tech:** Laravel, Vue.js, Bootstrap
 
-🔗 https://github.com/jahid-we/Simple-E-commerce-Project
+🔗 **GitHub:**  
+https://github.com/jahid-we/Simple-E-commerce-Project
+
+---
+
+## 📚 Professional Training
+
+### PHP & Laravel Web Development — OSTAD
+
+**March 2024 – August 2024**
+
+Completed practical training covering:
+
+- PHP fundamentals
+- Laravel MVC architecture
+- Authentication & authorization
+- REST API development
+- Database relationships
+- Vue.js integration
+- Real-world project development
 
 ---
 
 ## 🌍 Languages
 
-🇧🇩 Bangla — Native
-
-🇺🇸 English — Intermediate
-
-🇮🇳 Hindi — Conversational
+- 🇧🇩 **Bangla** — Native
+- 🇺🇸 **English** — Intermediate
+- 🇮🇳 **Hindi** — Conversational
 
 ---
 
-<!-- ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jahid-we&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahid-we&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahid-we&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p> -->
 ## 📫 Connect With Me
 
-📧 Email: **jahidhasan370919@gmail.com**
+📧 **Email:** jahidhasan370919@gmail.com
 
-💻 GitHub: **https://github.com/jahid-we**
+💻 **GitHub:** https://github.com/jahid-we
 
-🌐 WordPress Profile: **https://profiles.wordpress.org/jahidzendforce/**
+🌐 **WordPress Profile:** https://profiles.wordpress.org/jahidzendforce/
 
-🔗 LinkedIn: **https://www.linkedin.com/in/jahid-hasan-993597307**
+🔗 **LinkedIn:** https://www.linkedin.com/in/jahid-hasan-993597307
 
-📄 Resume: **https://drive.google.com/file/d/1Gimc0JfNnDWEfmWPYc4JfLyL2Cyy6EC0/view**
+📄 **Resume:** https://drive.google.com/file/d/1Gimc0JfNnDWEfmWPYc4JfLyL2Cyy6EC0/view
 
 ---
 
 ## 💡 Philosophy
 
-> "Continuous learning, practical development, and creating meaningful digital experiences."
+> "Keep learning, keep building, and turn ideas into practical digital solutions."
 
 ---
 
-⭐ If you like my work, feel free to explore my repositories and connect with me.
+⭐ **Thanks for visiting my profile!**
+
+Feel free to explore my repositories and connect with me.
